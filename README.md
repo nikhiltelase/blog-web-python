@@ -9,8 +9,11 @@ This is a web-based blog application built with Python and Flask. It allows user
 For a demonstration of the project, watch the output video below:
 
 [![Video Thumbnail](https://img.youtube.com/vi/GOt6FxsuUZI/hqdefault.jpg)](https://www.youtube.com/watch?v=GOt6FxsuUZI)
+
 click on image to play video👆
 
+## Live Link 
+https://blog-web-python.vercel.app/
 ## Features
 
 - **View Blog Posts:** Users can browse through a list of blog posts, each with a title, subtitle, and content.
