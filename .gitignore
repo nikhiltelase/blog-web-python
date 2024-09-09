@@ -3,6 +3,6 @@ venv/
 
 # Ignore macOS-specific system files
 .DS_Store
-
+.env
 # Cache
 __pycache__/
